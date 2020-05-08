@@ -1,9 +1,15 @@
-# Online-Shopping-Site-
+E-COMMERCE WEBSITE
 
-#SUMMER INTERNSHIP @ECIL
+SUMMER INTERNSHIP @ECIL(Electronics Corporation of India Limited)
 
-In this project website was created during different scripting languages such as html,javascript,css and jsp.
+In this Project I created an E-commerce website.
 
-Netbeans tool and Java Programming Language was used as wells.
+Tools used: Netbeans IDE
 
-For,Database MySQL was used.
+Database:MySQL
+
+Server: Tomcat Server
+
+Scripting Langauges: JSP,HTML,CSS, JavaScript
+
+
